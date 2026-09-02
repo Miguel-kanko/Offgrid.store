@@ -13,7 +13,7 @@ Vendors in Awaé have no stable internet. They cannot sell on Jumia.
 An offline-first mobile app that works 100% offline. Built with Flutter + SQLite.
 
 ### Products Database
-10 local products included: Téléphone, Sacs, Télé, Laptop, Voiture, Moto, Marmite, Chaussures, Vêtements, Cahier
+10 local products included: Telephone, School bags, Television set, Laptop, Cars, Motobikes, Pots, Shoes, Clothes, Books
 
 ### Future
 Deploy in Awaé markets after my Master's degree. Return to Cameroon to develop local tech.
