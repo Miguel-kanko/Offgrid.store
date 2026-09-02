@@ -2,7 +2,7 @@
 > Commerce without internet for rural Cameroon.
 
 **Author:** KANKO DJOUA MIGUEL
-**Status:** L1, Institut Africain d'Informatique (IAI) - Yaoundé, Cameroun
+**Status:** L1, Institut Africain d'Informatique (IAI) - Yaoundé, Cameroon
 **Goal:** Master's in Computer Science - Research on offline-first systems
 **Location:** Awaé, Yaoundé
 
