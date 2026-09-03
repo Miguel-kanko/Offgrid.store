@@ -1,8 +1,8 @@
 # offgrid.store - Commerce Without Internet
 > Buy in Paris, collect in Awaé. An offline-first protocol for rural Cameroon.
 
-**Author:** KANKO DJOUA MIGUEL -🎓 BSc Computer Science - Year 1, Institut Africain d'Informatique (IAI), Yaoundé
-**Location:** Awaé, Centre Region, Cameroon
+**Author:** KANKO DJOUA MIGUEL - 🎓 BSc Computer Science - Year 1, Institut Africain d'Informatique (IAI), Yaoundé 
+**Location:** Awaé, Centre Region, Cameroon 
 **Contact:** kankodjouamiguel@gmail.com
 **Goal:** Build the first offline marketplace dataset from rural Cameroon for PhD Research (UT Dallas 2029) on Offline-First Systems.
 
