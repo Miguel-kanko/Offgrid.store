@@ -17,7 +17,7 @@
 
 ### Photo Evidence
 - Photo taken: Yes (1 market photo, stored offline)
-- Description: Photo of palm oil 
+- Description: Photo of palm oil displayed for sale at Awaé market 
 
 ### Conclusion for offgrid.store
 Online prices are inaccurate for Awaé. 
