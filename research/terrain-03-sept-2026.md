@@ -1,4 +1,4 @@
-# Fieldwork Awaé - Sept 2, 2026
+# Fieldwork Awaé - Sept 3, 2026
 
 **Researcher:** Miguel, Year 1 IAI Cameroon
 **Location:** Awaé Market, Centre Region
