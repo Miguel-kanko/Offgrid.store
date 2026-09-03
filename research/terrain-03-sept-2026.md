@@ -5,7 +5,7 @@
 **Goal:** Validate prices and connectivity for offgrid.store
 
 ### Observation 1: Real Price
-- Product: 1 Liter Red Palm Oil
+- Product: 1 Liter Red Palm Oil displayed for sale at Awaé market
 - Price found: 900 FCFA
 - Date: 2026-09-03
 - Source: Direct market interview
@@ -17,7 +17,7 @@
 
 ### Photo Evidence
 - Photo taken: Yes (1 market photo, stored offline)
-- Description: palm oil on a table
+- Description: Photo of palm oil 
 
 ### Conclusion for offgrid.store
 Online prices are inaccurate for Awaé. 
