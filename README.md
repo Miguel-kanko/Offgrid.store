@@ -1,13 +1,13 @@
 # offgrid.store - Commerce Without Internet
 > Buy in Paris, collect in Awaé. An offline-first protocol for rural Cameroon.
 
-**Author:** KANKO DJOUA MIGUEL - 🎓 BSc Computer Science - Year 1, Institut Africain d'Informatique (IAI), Yaoundé 
-**Location:** Awaé, Centre Region, Cameroon 
-**Contact:** kankodjouamiguel@gmail.com
+**Author:** KANKO DJOUA MIGUEL - 🎓 BSc Computer Science - Year 1, Institut Africain d'Informatique (IAI), Yaoundé  
+**Location:** Awaé, Centre Region, Cameroon  
+**Contact:** kankodjouamiguel@gmail.com  
 **Goal:** Build the first offline marketplace dataset from rural Cameroon for PhD Research (UT Dallas 2029) on Offline-First Systems.
 
-### The Problem (from my village)
-In Awaé, my village near Yaoundé:
+### The Problem 
+In Awaé, near Yaoundé:
 - 60% of sellers have no stable internet. When MTN cuts, business stops.
 - Farmers lose ~40% of harvest because they can't find buyers offline.
 - Apps like Jumia need 100% internet. They don't work here.
@@ -32,9 +32,9 @@ This will be the first dataset of real offline commerce from rural Cameroon.
 ### Current Status: IDEA & RESEARCH PHASE
 I am currently in Year 1 at IAI (2025-2026). I am learning to code. This repository is for documenting the idea, the field research in Awaé market, and the learning roadmap.
 
-**Phase 1 (Now - year 1):** Field Research. Interview 50 sellers in Awaé. List real 50 products (cassava, plantain, palm oil...). Learn Dart/Flutter basics.
-**Phase 2 (year 2):** Build Offline Core. Flutter + SQLite offline storage + offline code generator.
-**Phase 3 (year 3):** Build Sync + SMS. Implement auto-sync and test with MTN MoMo sandbox + SMS Gateway.
+**Phase 1 (Now - Year 1):** Field Research. Interview 50 sellers in Awaé. List real 50 products (cassava, plantain, palm oil...). Learn Dart/Flutter basics.  
+**Phase 2 (Year 2):** Build Offline Core. Flutter + SQLite offline storage + offline code generator.  
+**Phase 3 (Year 3):** Build Sync + SMS. Implement auto-sync and test with MTN MoMo sandbox + SMS Gateway.  
 **Phase 4 (Master):** Deploy pilot in Awaé + Publish dataset.
 
 ### Tech Stack (Planned)
